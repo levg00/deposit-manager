@@ -10,7 +10,7 @@
 
 Финальный учебный проект курса **CS50's Introduction to Programming with Python (CS50P)**.
 
-[Видеодемонстрация](https://youtu.be/P-Ue0A0f01Q)
+[Видеодемонстрация проекта](https://youtu.be/P-Ue0A0f01Q)
 
 ## Инструменты и устройство
 
