@@ -3,7 +3,6 @@
   <a href="README.ru.md"><img align="right" src="https://raw.githubusercontent.com/levg00/levg00/main/assets/lang-ru-inactive-clean.svg" alt="RU"></a>
   Deposit Manager
 </h1>
-in the format `(type, amount, description)`, where the type is `"+"` for income or `"-"` for an expense.
 
 [↩ Applied projects](https://github.com) 
 
