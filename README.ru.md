@@ -14,7 +14,7 @@
 
 
 
-### 📺 [`Демо проекта`]([https://youtu.be](https://youtu.be/P-Ue0A0f01Q))
+### 📺 [`Демо проекта`](https://youtu.be/P-Ue0A0f01Q)
 
 
 <br>
