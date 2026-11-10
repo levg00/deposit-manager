@@ -12,7 +12,6 @@ Final course project for **CS50's Introduction to Programming with Python (CS50P
 
 ### 📺 [`Project demo`](https://youtu.be/P-Ue0A0f01Q)
 
-<br>
 
 ## 🛠️ Tools and implementation
 
@@ -27,8 +26,6 @@ Final course project for **CS50's Introduction to Programming with Python (CS50P
 * **String processing:** Implemented user command parsing for adding transactions, viewing history, and exporting data.
 * **Testing:** Wrote checks for balance changes, transaction history, and help text using `pytest`.
 
-<br>
-
 ## Getting started
 
 From the project directory:
@@ -38,8 +35,6 @@ python3 project.py
 ```
 
 After starting the application, enter `help` to see the available commands. The application interface is in English.
-
-<br>
 
 ## ⚙️ Main functions
 
@@ -64,15 +59,12 @@ The current state is stored in two global variables:
 
 </details>
 
-<br>
-
 ## 💾 Data export
 
 `history.csv` contains the fields `Action`, `Amount`, `Description`, and `Balance`; `sorted.csv` contains `Action`, `Amount`, and `Description`. The final balance and average income and expense amounts are appended to each file.
 
 > ⚠️ **Important:** Exporting again completely overwrites the file with the same name in the directory. To keep results from multiple sessions, rename the output files manually.
 
-<br>
 
 ## 🧪 Project testing
 
@@ -87,7 +79,6 @@ The project includes **7 automated tests** checking the basic logic of adding in
 
 > ⚠️ **Important:** Export tests create `history.csv` and `sorted.csv` in the working directory and may overwrite existing files.
 
-<br>
 
 ## Usage example
 
@@ -109,7 +100,6 @@ Exported: history.csv
 > exit
 ```
 
-<br>
 
 > [!WARNING]
 > **Limitations of the learning project:**
@@ -117,7 +107,6 @@ Exported: history.csv
 > * **Precision:** Amounts use `float`, which can introduce floating-point representation errors.
 > * **Validation:** Input validation is incomplete; invalid values are not rejected.
 
-<br>
 
 ## Future improvements (Roadmap)
 
@@ -126,7 +115,6 @@ Exported: history.csv
 - [ ] Implement saving and loading history between sessions (JSON/SQLite).
 - [ ] Isolate the state of each test and verify output contents.
 
-<br>
 
 ## Files
 
